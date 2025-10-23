@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1761141946
+icon.svg::CompressedTexture2D::6777912075841066680::1760672942::1760672951::1::::<><><>0<>0<>4dbfb8ef535944bbb05a87f1f8924ee7<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1760714306
+::res://assets/sprite_pj/::1760714335
+UNEFA_Mujer.png::CompressedTexture2D::4578497897450487996::1760712383::1760714335::1::::<><><>0<>0<>e47fb65529bd045e06793a754764608b<>res://.godot/imported/UNEFA_Mujer.png-41c142249029a8e6924383ad3192c7de.ctex::
+::res://assets/tiles/::1760720459
+pared pizarra.png::CompressedTexture2D::6231223839247182954::1760720459::1760720459::1::::<><><>0<>0<>07275aab0f473ef8e7894e57c3dc2c5a<>res://.godot/imported/pared pizarra.png-75bcc9670d74a9377831c023727a749e.ctex::
+pared.png::CompressedTexture2D::8376939197209553569::1760718309::1760718309::1::::<><><>0<>0<>53edea80f3d4fb276dd72cdf1d5ca240<>res://.godot/imported/pared.png-055f24ff52bb3d61c636dbbb8f16b8db.ctex::
+piso_32x32.png::CompressedTexture2D::5225032500696755571::1760719922::1760719922::1::::<><><>0<>0<>ea4f8f06a29be5d8cbfb725fa1f4d4ce<>res://.godot/imported/piso_32x32.png-eee9135f60767359052adedbfa9f41fe.ctex::
+::res://escena/::1760720513
+control.tscn::PackedScene::3878144797283449565::1760673076::0::1::::<><><>0<>0<><>::
+level.tscn::PackedScene::1792312236379209146::1760720513::0::1::::<><><>0<>0<><>::uid://cu1pl1it6cjsc::::res://assets/tiles/pared pizarra.png<>uid://cgpbr0k0k7hih::::res://assets/tiles/piso_32x32.png<>uid://drl372gir4c6d::::res://assets/tiles/pared.png<>uid://uyhlokkhamjs::::res://escena/player.tscn
+player.tscn::PackedScene::1453767352779070372::1760714433::0::1::::<><><>0<>0<><>::uid://corcrrctwf8w::::res://scripts/player_body.gd<>uid://b6h4grkrvvr0o::::res://assets/sprite_pj/UNEFA_Mujer.png
+::res://scripts/::1760713327
+player_body.gd::GDScript::170315655573501676::1760713327::0::1::::<>CharacterBody2D<><>0<>0<><>::
